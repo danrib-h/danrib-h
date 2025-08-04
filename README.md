@@ -1,5 +1,3 @@
-# 💫 About Me:
-🧠 About Me<br>🔧 Formerly lost in the matrix of IT, now finding my way back through learning and building.<br>💻 Passionate about full-stack development, clean code, and creating meaningful digital experiences.<br>🔍 Currently diving deep into:<br>Next.js, TypeScript, React<br>PostgreSQL, Prisma<br>Java, Spring Boot, and legacy JSP/Struts2 systems.<br>🌱 Always learning, failing, and iterating.<br>🛠️ Tools & Technologies<br>💻 Languages:        Java, TypeScript, JavaScript, HTML/CSS, SQL<br>🧰 Frameworks:       React, Next.js, Express, Spring Boot, Struts2<br>🗃️ Databases:        PostgreSQL, MySQL<br>🔧 Tools & Platforms: VS Code, Git, GitHub, Postman, Docker, IntelliJ
 
 
 # 💻 Tech Stack:
