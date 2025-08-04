@@ -1,6 +1,6 @@
 
 <p>
- <img align="center" width="1000" src="prog.gif" alt="Coding gif" /></p>
+ <img align="center" width="750" src="prog.gif" alt="Coding gif" /></p>
 
 
 # 💻 Tech Stack:
