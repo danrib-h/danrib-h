@@ -1,4 +1,4 @@
-<title>HISTORY</title>
+
 <p> <img align="center" width="600" src="prog.gif" alt="Coding gif" /></p>
 
 
